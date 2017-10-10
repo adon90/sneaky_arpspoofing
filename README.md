@@ -6,5 +6,5 @@ The arp request is sent when the target ARP tables changes, that involves 2 case
 
 Usage: `sneaky_arpspoofing.py -i <iface> -t <target> -g <gateway>`
 
-Thes program requires scapy
+This program requires scapy
 
